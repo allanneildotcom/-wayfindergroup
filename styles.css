@@ -90,19 +90,19 @@ html, body {
 
 
 #act_section { position: absolute; left: 0%; top: 0%; height: 61%; width: 99%; border-style: solid; border-width: 0.5%; border-color: #7EBF03; padding: 0.5% 0.5%; }
-#execute_section { position: absolute; left: 1%; top: 10%; height: 87%; width: 57%; border-style: solid; border-width: 1px; border-color: #7EBF03; padding: 0.5% 0.5%; }
+#adapt_section { position: absolute; left: 1%; top: 10%; height: 87%; width: 57%; border-style: solid; border-width: 1px; border-color: #7EBF03; padding: 0.5% 0.5%; }
 #evaluate_section  { position: absolute; left: 60%; top: 10%; height: 59%; width: 38%; border-style: solid; border-width: 1px; border-color: #7EBF03; padding: 0.5% 0.5%; }
-#adapt_section { position: absolute; left: 60%; top: 71%; height: 26%; width: 38%; border-style: solid; border-width: 1px; border-color: #7EBF03; padding: 0.5% 0.5%; } 
+#execute_section { position: absolute; left: 60%; top: 71%; height: 26%; width: 38%; border-style: solid; border-width: 1px; border-color: #7EBF03; padding: 0.5% 0.5%; } 
 
 #orient_section { position: absolute; left: 38%; top: 0%; height: 97%; width: 61%; border-style: solid; border-width: 0.5%; border-color: #4F0C8A; padding: 0.5% 0.5%; }
-#target_section { position: absolute; left: 1%; top: 14%; height: 84%; width: 57%; border-style: solid; border-width: 1px; border-color: #4F0C8A; padding: 0.5% 0.5%; }
+#commit_section { position: absolute; left: 1%; top: 14%; height: 84%; width: 57%; border-style: solid; border-width: 1px; border-color: #4F0C8A; padding: 0.5% 0.5%; }
 #strategize_section  { position: absolute; left: 60%; top: 14%; height: 59%; width: 38%; border-style: solid; border-width: 1px; border-color: #4F0C8A; padding: 0.5% 0.5%; }
-#commit_section { position: absolute; left: 60%; top: 76%; height: 22%; width: 38%; border-style: solid; border-width: 1px; border-color: #4F0C8A; padding: 0.5% 0.5%; } 
+#target_section { position: absolute; left: 60%; top: 76%; height: 22%; width: 38%; border-style: solid; border-width: 1px; border-color: #4F0C8A; padding: 0.5% 0.5%; } 
 
 #observe_section { position: absolute; left: 0%; top: 38%; height: 60%; width: 96%; border-style: solid; border-width: 0.5%; border-color: #CD2A03; padding: 0.5% 0.5%; }
-#sense_section { position: absolute; left: 1%; top: 21%; height: 74%; width: 57%; border-style: solid; border-width: 1px; border-color: #CD2A03; padding: 0.5% 0.5%; }
+#test_section { position: absolute; left: 1%; top: 21%; height: 74%; width: 57%; border-style: solid; border-width: 1px; border-color: #CD2A03; padding: 0.5% 0.5%; }
 #model_section  { position: absolute; left: 60%; top: 21%; height: 53%; width: 38%; border-style: solid; border-width: 1px; border-color: #CD2A03; padding: 0.5% 0.5%; }
-#test_section { position: absolute; left: 61%; top: 77%; height: 18%; width: 36%; border-style: solid; border-width: 1px; border-color: #CD2A03; padding: 0.5% 0.5%; } 
+#sense_section { position: absolute; left: 61%; top: 77%; height: 18%; width: 36%; border-style: solid; border-width: 1px; border-color: #CD2A03; padding: 0.5% 0.5%; } 
 
 #act_section2 { position: absolute; left: 0%; top: 0%; height: 93.5%; width: 59%; border-style: solid; border-width: 0.5%; border-color: #7EBF03; padding: 0.5% 0.5%; }
 #orient_section2 { position: absolute; left: 0%; top: 0%; height: 61%; width: 91.25%; border-style: solid; border-width: 0.5%; border-color: #4F0C8A; padding: 0.5% 0.5%; }
