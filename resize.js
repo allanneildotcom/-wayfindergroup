@@ -14,13 +14,17 @@ function updateContainer() {
 $("h1").css({
   fontSize: h1Size
 });
-$("h3").css({
-  fontSize: h1Size * 0.5
-});
-$("p").css({
-  fontSize: h1Size * 0.2
+$("h2").css({
+  fontSize: h1Size * 0.62
 });
 
+$("p").css({
+  fontSize: h1Size * 0.62 * 0.62
+});
+
+ $("#wayfinder_logo_dog").css({
+	height: goldenWidth * 0.15 * 0.6, width: goldenWidth * 0.15
+}); 
 
     if (windowWidth/windowHeight > phi) {
       // panoramic viewport - use full height
